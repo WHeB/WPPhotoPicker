@@ -1,0 +1,6 @@
+framework module WPPhotoPicker {
+  umbrella header "WPPhotoPicker-umbrella.h"
+
+  export *
+  module * { export * }
+}

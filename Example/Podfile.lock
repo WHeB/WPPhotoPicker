@@ -1,0 +1,16 @@
+PODS:
+  - WPPhotoPicker (0.1.0)
+
+DEPENDENCIES:
+  - WPPhotoPicker (from `../`)
+
+EXTERNAL SOURCES:
+  WPPhotoPicker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WPPhotoPicker: 2003261c9b83b620184c9f2debaf90bbf6020602
+
+PODFILE CHECKSUM: a776d354ab0cf8ea4655b8fccfb7000b91c66ade
+
+COCOAPODS: 1.8.4

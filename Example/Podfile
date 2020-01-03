@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WPPhotoPicker_Example' do
+  pod 'WPPhotoPicker', :path => '../'
+
+  target 'WPPhotoPicker_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

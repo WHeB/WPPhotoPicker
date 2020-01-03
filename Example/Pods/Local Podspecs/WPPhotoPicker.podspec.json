@@ -1,0 +1,22 @@
+{
+  "name": "WPPhotoPicker",
+  "version": "0.1.0",
+  "summary": "A short description of WPPhotoPicker.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/WHeB/WPPhotoPicker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "WHeB": "wpeng0407@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/WHeB/WPPhotoPicker.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WPPhotoPicker/Classes/**/*"
+}
